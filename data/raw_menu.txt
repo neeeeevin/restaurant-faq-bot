@@ -1,0 +1,15 @@
+Paneer Tikka - A grilled cottage cheese starter with spices. Vegetarian. Gluten-Free. Contains Dairy. Price 280. Calories 350. Protein 18g. Spice Level 3.
+
+Chicken Biryani - Traditional basmati rice cooked with chicken and spices. Non-Vegetarian. Price 320. Calories 650. Protein 28g. Spice Level 4.
+
+Vegan Buddha Bowl - Quinoa, roasted vegetables, chickpeas. Vegan. Gluten-Free. Price 300. Calories 400. Protein 15g. Spice Level 1.
+
+Margherita Pizza - Classic pizza with mozzarella cheese. Vegetarian. Contains Dairy and Gluten. Price 250. Calories 700. Protein 20g.
+
+Grilled Chicken Salad - Lean grilled chicken with greens. Gluten-Free. Price 270. Calories 350. Protein 32g.
+
+Chocolate Lava Cake - Warm chocolate dessert. Contains Dairy and Gluten. Price 180. Calories 450.
+
+Spicy Chicken Wings - Deep fried spicy wings. Price 260. Calories 550. Protein 25g. Spice Level 5.
+
+Fruit Smoothie - Fresh blended fruits. Vegan. Gluten-Free. Price 150. Calories 180.
